@@ -1,0 +1,18 @@
+development:
+  database:
+    dialect: postgres
+    host: localhost
+    port: 5432
+    username: postgres
+    password: lob@2020
+    database: lob
+    logger: true
+    dialectOptions:
+      ssl: false
+
+  auth:
+    secret: teste
+
+  awsAccessKey: 'AKIAZ35OQ4JERN5NIDFA'
+  awsSecretAccessKey: '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'
+  awsDefaultRegion: 'sa-east-1'

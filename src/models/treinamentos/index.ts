@@ -1,0 +1,1 @@
+export { Treinamentos } from './treinamento';

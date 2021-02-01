@@ -1,0 +1,1 @@
+export { Negociacao } from './negociacoes';
